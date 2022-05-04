@@ -12,3 +12,4 @@ nodemon --watch [폴더]/ [폴더]/index.js
 
 - ch1 - 세 수 중 최솟값
 - ch2 - 삼각형 판별
+- ch3 - 연필 개수
